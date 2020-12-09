@@ -1,0 +1,10 @@
+{
+  "SecretKey": "secret",
+  "PUSHER_APP_ID": "1120736",
+  "PUSHER_APP_KEY": "888dc73d4ed3cba9a260",
+  "PUSHER_APP_SECRET": "32eabe5829a7616cb0eb",
+  "PUSHER_APP_CLUSTER": "ap2",
+  "CLOUDINARY_CLOUD_NAME": "dzjmkcauu",
+  "CLOUDINARY_API_KEY": "184462618419713",
+  "CLOUDINARY_API_SECTRET": "9gNCEgVmqVxeoMyE3o_kh_x5igY"
+}
